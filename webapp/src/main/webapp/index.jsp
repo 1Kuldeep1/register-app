@@ -1,4 +1,3 @@
-<h1>Welcom</h1>
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
@@ -35,5 +34,6 @@
   </div>
 
    <h1> Thank You </h1>
+   <h1>Welcom</h1>
    
 </form>
